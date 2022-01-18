@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1020203518937",
+    "firebase_url": "https://pdf-store-retrive-default-rtdb.firebaseio.com",
+    "project_id": "pdf-store-retrive",
+    "storage_bucket": "pdf-store-retrive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020203518937:android:b89e3c7c51580ffb0be7c8",
+        "android_client_info": {
+          "package_name": "com.example.pdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020203518937-pqb5b8vbvkd4b0aovtth9rlielc7vrhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtsVUUgdhlqnWq5_tvPK4eCoT7_-w5AJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020203518937-pqb5b8vbvkd4b0aovtth9rlielc7vrhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020203518937:android:e7784154e7ef36200be7c8",
+        "android_client_info": {
+          "package_name": "com.example.pdf_store_retrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020203518937-pqb5b8vbvkd4b0aovtth9rlielc7vrhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtsVUUgdhlqnWq5_tvPK4eCoT7_-w5AJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020203518937-pqb5b8vbvkd4b0aovtth9rlielc7vrhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
